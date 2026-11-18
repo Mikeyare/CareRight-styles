@@ -17924,8 +17924,8 @@ h1.patient-name {
 }
 
 .patient-has-alerts #masthead-navigation a.active {
-    color: #12d1c2 !important;
-    border-bottom-color: #12d1c2 !important
+    color: #FFEA00 !important;
+    border-bottom-color: #FFEA00 !important
 }
 
 .patient-has-alerts #masthead-navigation .nav>li>a:hover,.patient-has-alerts #masthead-navigation .nav>li>a:focus {
@@ -17935,7 +17935,7 @@ h1.patient-name {
 
 .patient-has-alerts #masthead-navigation .nav>li>a.active:hover,.patient-has-alerts #masthead-navigation .nav>li>a.active:focus {
     background-color: transparent !important;
-    border-bottom-color: #12d1c2 !important
+    border-bottom-color: #FFEA00 !important
 }
 
 .patient-is-deceased .navbar,.patient-is-deceased .masthead-framed,.patient-is-deceased .masthead-header {
