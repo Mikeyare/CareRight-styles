@@ -7533,7 +7533,7 @@ button.close {
 }
 
 .navmenu-default .navmenu-nav>.open>a,.navmenu-default .navmenu-nav>.open>a:hover,.navmenu-default .navmenu-nav>.open>a:focus,.navbar-default .navbar-offcanvas .navmenu-nav>.open>a,.navbar-default .navbar-offcanvas .navmenu-nav>.open>a:hover,.navbar-default .navbar-offcanvas .navmenu-nav>.open>a:focus {
-    background-color: #f5f5f5;
+    background-color: #fff;
     color: #001489
 }
 
@@ -7548,7 +7548,7 @@ button.close {
 }
 
 .navmenu-default .navmenu-nav.dropdown-menu,.navbar-default .navbar-offcanvas .navmenu-nav.dropdown-menu {
-    background-color: #fff
+    background-color: #f5f5f5
 }
 
 .navmenu-default .navmenu-nav.dropdown-menu>.divider,.navbar-default .navbar-offcanvas .navmenu-nav.dropdown-menu>.divider {
