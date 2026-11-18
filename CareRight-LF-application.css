@@ -29110,6 +29110,9 @@ input.form-control.colour {
     font-size: 20px
 }
 
+.assessment-cell .btn-group-vertical { display: flex; flex-wrap: wrap; width: 75%; margin: auto; }
+.assessment-cell .btn-group-vertical > .btn { width: auto; }
+
 @keyframes spin {
     0% {
         transform: rotate(0deg)
